@@ -8,8 +8,8 @@
 # Test data
 test.data/
 
-# Claude Code local settings
-.claude/settings.local.json
+# Claude Code settings
+.claude/
 
 # Python
 __pycache__/

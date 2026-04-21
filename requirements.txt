@@ -1,0 +1,2 @@
+b24pysdk @ file:///D:/SoftProjects/bitrix-bot/libs/b24pysdk
+python-dotenv>=1.0.0
